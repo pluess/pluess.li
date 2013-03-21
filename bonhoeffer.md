@@ -4,7 +4,7 @@
 
 Es gibt Bücher, bei denen werde ich zum Kampfleser. Das bedeutet, dass ich die halbe Nacht durchlese und das Buch fast nicht mehr bei Seite legen kann.
 
-An Eric Metaxas Biographie ist zwei Dinge zu gleich: Super recherchiert und spannend geschrieben. 958 Fussnoten tönt nach staubtrockener wissenschaftlicher Arbeit, ist aber tatsächlich das Gegenteil. Man möchte die gut fast 700 Seiten in einem Rutsch durchlesen.
+Eric Metaxas Biographie ist zwei Dinge zu gleich: Ernsthaft recherchiert und spannend geschrieben. 958 Fussnoten könnten auf eine staubtrockener wissenschaftlicher Arbeit hinweisen, aber tatsächlich ist das Gegenteil der Fall. Die Spannung ist of so gross dass ich öfter versucht war, die gut  700 Seiten in einem Rutsch durchzulesen.
 
 Aber was wäre eine Bonhöffer Biographie die nur spannende Unterhaltung bietet? Metaxas lässt von den Vorfahren Bonhöfers bis die Todesnachricht bei seiner Familie eintrifft nichts aus. Wer umfassend verstehen will wer Dietrich Bonhoeffer war und weshalb er ein Leben als Pastor, Agent, Märtyrer und Prophet gelebt hab kommt voll auf seine Rechnung.
 
