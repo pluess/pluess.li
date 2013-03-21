@@ -1,7 +1,6 @@
 <!--Bonhoeffer-->
 
-## Bonhöffer ##
-### Pastor, Agent, Märtyrer und Prophet von Eric Metaxas ###
+## Pastor, Agent, Märtyrer und Prophet von Eric Metaxas ##
 
 Es gibt Bücher, bei denen werde ich zum Kampfleser. Das bedeutet, dass ich die halbe Nacht durchlese und das Buch fast nicht mehr bei Seite legen kann.
 
