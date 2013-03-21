@@ -18,7 +18,9 @@ Diese Module habe ich zur Zeit im Einsatz:
 * [tagclouds](http://drupal.org/project/tagclouds)
 * [views](http://drupal.org/project/views)
 
+Für das Theme kommt [Bamboo][4] zum Einsatz. Lediglich ergänzt durch das *Fork me on GitHub* Banner und Minus den Subject Block. (Der macht ja wenig Sinn wenn es nur einen Autor gibt ;-). )
 
 [1]: (http://drupal.org/sandbox/pluess/1947992)
 [2]: (http://daringfireball.net/projects/markdown/syntax)
 [3]: (https://github.com)
+[4]: (http://drupal.org/project/bamboo)
