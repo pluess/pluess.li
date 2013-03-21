@@ -9,10 +9,13 @@ Damit ist es möglich, den Inhalt des Blogs in einfachen [Markdown][2] Dateien a
 Diese Module habe ich zur Zeit im Einsatz:
 
 * [backup_migrate](http://drupal.org/project/backup_migrate)
+* [captcha](http://drupal.org/project/captcha)
 * [ctools](http://drupal.org/project/ctools)
 * [geshifilter](http://drupal.org/project/geshifilter)
 * [libraries](http://drupal.org/project/libraries)
 * [markdown](http://drupal.org/project/markdown)
+* [recaptcha](http://drupal.org/project/recaptcha)
+* [tagclouds](http://drupal.org/project/tagclouds)
 * [views](http://drupal.org/project/views)
 
 
