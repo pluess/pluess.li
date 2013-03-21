@@ -4,7 +4,7 @@
 
 Dieser Blog läuft auf Drupal 7. Neben einer Reihe von contributed Modulen habe ich speziell für diesen Blog das [Remote Content Modul][1] entwickelt.
 
-Damit ist es möglich, den Inhalt des Blogs in einfachen [Markdown][2] Dateien auf [GitHub][3] zu hosten und gleichzeitig alle Vorteile von Drupal zu nutzen. Es ist also erlaubt (und erwünscht!) den Inhalt zu formen und via Pull Requests zu verbessern.
+Damit ist es möglich, den Inhalt des Blogs in einfachen [Markdown][2] Dateien auf [GitHub][3] zu hosten und gleichzeitig alle Vorteile von Drupal zu nutzen. Es ist also erlaubt (und erwünscht!) den Inhalt zu forken und via Pull Requests zu verbessern.
 
 Diese Module habe ich zur Zeit im Einsatz:
 
