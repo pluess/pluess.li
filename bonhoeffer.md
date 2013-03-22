@@ -2,7 +2,7 @@
 
 ## Pastor, Agent, Märtyrer und Prophet von Eric Metaxas ##
 
-Es gibt Bücher, bei denen werde ich zum Kampfleser. Das bedeutet, dass ich die halbe Nacht durchlese und das Buch fast nicht mehr bei Seite legen kann.
+Es gibt Bücher, bei denen werde ich zum Kampfleser. Das bedeutet, dass ich die halbe Nacht durchlese und das Buch fast nicht mehr bei Seite legen kann. Diese Biographie über Dietrich Bonhöfer gehört eindeutig in diese Kategorie.
 
 Eric Metaxas Biographie ist zwei Dinge zu gleich: Ernsthaft recherchiert und spannend geschrieben. 958 Fussnoten könnten auf eine staubtrockener wissenschaftlicher Arbeit hinweisen, aber tatsächlich ist das Gegenteil der Fall. Die Spannung ist of so gross dass ich öfter versucht war, die gut  700 Seiten in einem Rutsch durchzulesen.
 
