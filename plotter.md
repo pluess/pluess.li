@@ -5,7 +5,7 @@ Voll funktionsfähiger Plotter aus Lego Technic. Die Steuerung erfolgt über die
 
 Bilder:
 
-[flickr-photoset:id=72157632485810951,size=m]
+[flickr-photoset:id=72157632485810951,size=s]
 
 In Action:
 
