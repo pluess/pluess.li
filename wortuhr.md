@@ -10,6 +10,8 @@ Nach 2 Wochen waren schliesslich alle Teile da und es ging los. Zuerst 110 Löch
 
 Dann kam der grosse Augenblick: Strom einschalten und - auf jedenfall leuchteten schon ein paar LEDs. Es dauerte noch etwas bis ich die Bedienung verstanden und das Programm auf die Berndeutsche Matrix umprogrammiert hatte. Aber schlussendlich ist sie da: Eine selbstgebaute Wortuhr in hellgrün.
 
+Fazit des Geburtstagskindes: Sieht viel besser aus als die Dinger ab Stange! :-)
+
 Hier ein paar Bilder:
 
 [flickr-photoset:id=72157633057718003,size=s]
