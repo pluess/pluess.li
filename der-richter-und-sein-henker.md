@@ -1,6 +1,4 @@
-<!--Bonhoeffer-->
-
-## Der Richter und sein Henker ##
+<!--Der Richter und sein Henker-->
 
 Kommissär Bärlach ist todkrank. Aber er hat noch eine alte Rechnung zu begleichen. Sein bester Freund ist vor Jahrzehnten zu seinem grössten Feind geworden, und diesen will er unbedingt noch richten. Aber wie soll man jemanden dingfest machen, der sein ganzes Leben darauf verwendet hat nicht erwischt zu werden?
 
