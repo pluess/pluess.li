@@ -14,7 +14,7 @@ Fazit des Geburtstagskindes: Sieht viel besser aus als die Dinger ab Stange! :-)
 
 Hier ein paar Bilder:
 
-[flickr-photoset:id=72157633057718003,size=s]
+<object width="600" height="450"> <param name="flashvars" value="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fpluess%2Fsets%2F72157633057718003%2Fshow%2F&page_show_back_url=%2Fphotos%2Fpluess%2Fsets%2F72157633057718003%2F&set_id=72157633057718003&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fpluess%2Fsets%2F72157633057718003%2Fshow%2F&page_show_back_url=%2Fphotos%2Fpluess%2Fsets%2F72157633057718003%2F&set_id=72157633057718003&jump_to=" width="600" height="450"></embed></object>
 
 
 [1]: http://www.qlocktwo.com
