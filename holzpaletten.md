@@ -11,7 +11,9 @@ Der zweite Versuch mit Einwegpaletten war wesentlich erfolgreicher. In weniger a
 
 Positiver Nebeneffekt der Operation *Holzpaletten*: Die Kids haben sich mit Begeisterung über die Holzresten hergemacht. Laut den Erfindern handelt es sich um ein dreisitziges Amphibienfahrzeug :-).
 
-[flickr-photoset:id=72157634631527285,size=s]
+
+<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fpluess%2Fsets%2F72157634631527285%2Fshow%2Fwith%2F9282824161%2F&page_show_back_url=%2Fphotos%2Fpluess%2Fsets%2F72157634631527285%2Fwith%2F9282824161%2F&set_id=72157634631527285&jump_to=9282824161"></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fpluess%2Fsets%2F72157634631527285%2Fshow%2Fwith%2F9282824161%2F&page_show_back_url=%2Fphotos%2Fpluess%2Fsets%2F72157634631527285%2Fwith%2F9282824161%2F&set_id=72157634631527285&jump_to=9282824161" width="400" height="300"></embed></object>
+
 
 Fazit: Mit Einwegpaletten lässt sich [vieles Basteln][3] und das Material gibt es gratis. Mein nächstes Projekt wird ein Kompost sein. Danach lasse ich mich vielleicht für ein [Möbel inspirieren][4].
 
