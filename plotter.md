@@ -10,7 +10,7 @@ Bedient wird der Plotter mit einer [8879 Infrarot-Fernsteuerung][1]. Beide Achse
 
 Hier einige Bilder des Plotters und der Fernbedienung.
 
-[flickr-photoset:id=72157632485810951,size=s]
+<object width="600" height="450"> <param name="flashvars" value="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fpluess%2Fsets%2F72157632485810951%2Fshow%2F&page_show_back_url=%2Fphotos%2Fpluess%2Fsets%2F72157632485810951%2F&set_id=72157632485810951&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fpluess%2Fsets%2F72157632485810951%2Fshow%2F&page_show_back_url=%2Fphotos%2Fpluess%2Fsets%2F72157632485810951%2F&set_id=72157632485810951&jump_to=" width="400" height="300"></embed></object>
 
 Und so sieht das ganze in Aktion aus:
 
