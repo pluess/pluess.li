@@ -1,6 +1,6 @@
 <!-- Tischkreissäge Festool CS50 -->
 
-Nach dem ich mir im Mai 2013 eine Festoll CS50 Tischkreissäge gekauft habe ist es an der Zeit meine ersten Erfahrungen zu beschreiben.
+Nach dem ich mir im Mai 2013 eine Festoll CS50 Tischkreissäge gekauft habe, ist es an der Zeit meine ersten Erfahrungen zu beschreiben.
 
 Ich schneide mit der CS50 Parkett, Sperrholz, Eichenbohlen, Balken und einiges mehr. Als einziges Zubehör habe ich für die gröberen Schnitte ein Panther Sägeblatt gekauft.
 
