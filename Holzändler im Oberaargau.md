@@ -13,4 +13,6 @@ Hier eine Liste von Firmen, bei denen ich gute Erfahrungen gemacht habe:
 
 Ich hoffe dieses Liste hilft dir weiter. Über Hinweise über weiter Holzhändler in der Region würde ich mich natürlich freuen.
 
+Titelbild zur Verfügung gestellt von [Tobias Mandt](http://www.flickr.com/photos/calvinshmelvin/4559059004/)
+
 
