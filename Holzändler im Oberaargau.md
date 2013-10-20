@@ -11,7 +11,7 @@ Hier eine Liste von Firmen, bei denen ich gute Erfahrungen gemacht habe:
 * [Schürch & Co. AG, Huttwil](http://www.schuerch-holz.ch/) Kenne ich noch nicht persönlich, soll aber auch gut sein ([Link](http://www.woodworker.de/forum/bekomme-holz-her-t82556.html#post321539)).
 * [Haas Holz AG](http://www.haas-holz.ch/) Auch diesen kenne ich noch nicht persönlich. Soll aber für Privatpersonen auch interessant sein.
 
-Ich hoffe diese Liste hilft dir weiter. Über Hinweise über weiter Holzhändler in der Region würde ich mich natürlich freuen.
+Ich hoffe diese Liste hilft dir weiter. Hinweise über weiter Holzhändler in der Region würde ich mich natürlich freuen.
 
 Titelbild zur Verfügung gestellt von [Tobias Mandt](http://www.flickr.com/photos/calvinshmelvin/4559059004/).
 
