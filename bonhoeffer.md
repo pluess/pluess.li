@@ -18,5 +18,3 @@ Bezugsquellen:
 * [Stauffacher](http://www.stauffacher.ch/shop/stb_start_startseite/suchartikel/bonhoeffer/eric_metaxas/ISBN3-7751-5271-7)
 * 
 
-asdf | qwer | wert
-1 | 2 | 3
